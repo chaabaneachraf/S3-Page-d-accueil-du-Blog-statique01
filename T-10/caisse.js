@@ -14,4 +14,6 @@ for (let i=0; i<panier.length;i++){
 }
 console.log("Total du panier :",som);
 console.log("Nombre d'articles chers :", expensive )
-console.log("Montant des articles chers :",sum)
+console.log("Montant des articles chers :",sum);
+
+

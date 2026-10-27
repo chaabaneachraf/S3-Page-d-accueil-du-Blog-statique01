@@ -26,4 +26,4 @@ for( let i =0; i <nombers.length;i++){
     position=i
     }
 }
-console.log("La valeur 31 est présente dans le tableau."  ,position)
+console.log("La valeur 31 est présente dans le tableau." ,position)
